@@ -47,7 +47,7 @@ for i in range(n):
 
 ## Output:
 
-<img width="920" height="816" alt="image" src="https://github.com/user-attachments/assets/92d090a7-e705-4634-bc03-ccfc74d443af" />
+<img width="511" height="320" alt="image" src="https://github.com/user-attachments/assets/b9c59327-49ad-4c5d-9c41-590111e385df" />
 
 
 
