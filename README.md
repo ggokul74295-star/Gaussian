@@ -8,8 +8,14 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
+
+1. Read the number of unknowns n and form the augmented matrix of size n × (n+1).
+
+2. Apply forward elimination to convert the matrix into upper triangular form by making elements below the diagonal as zero.
+
+3. Perform back substitution to calculate the values of unknown variables starting from the last equation.
+
+4. Display the values of the unknowns as the final solution.
 
 ## Program:
 ```
